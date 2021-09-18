@@ -1,7 +1,9 @@
 ### Hi there, I'm jsdawn (青山依旧)
 
-百学须先立志。<br/>
-<span style="pading-right:60px;"></span> -- 处女座WEB前端攻城狮
+<pre>
+百学须先立志。
+           -- 处女座WEB前端攻城狮
+</pre>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jsdawn.qingshan)
 
